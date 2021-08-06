@@ -8,10 +8,66 @@ MWZlYTk5YWQ5NWI1NzAxNzVmZGEyNWMzYTY5Nzg4ZDZhOWI4NTRhYTEzZjhhNWZmNjNmNmVmZWRmNTgx
 ,maxUses:9999999},
 
 {buy:{id:copper_ingot,Count:1},sell:{id:player_head,Count:1,tag:
+{display:{Name:"{\"text\":\"Emoticon Dead\"}"},SkullOwner:
+{Id:[I;660239614,-471577857,-2036176669,-73981737],Properties:{textures:
+[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUv
+YjM3MWU0ZTFjZjZhMWEzNmZkYWUyNzEzN2ZkOWI4NzQ4ZTYxNjkyOTk5MjVmOWFmMmJlMzAxZTU0Mjk4YzczIn19fQ=="}]}}
+,maxUses:9999999},
+
+{buy:{id:copper_ingot,Count:1},sell:{id:player_head,Count:1,tag:
+{display:{Name:"{\"text\":\"Emoticon Embarrassed\"}"},SkullOwner:
+{Id:[I;-2132710570,-1920184672,-1280123543,-943892785],Properties:{textures:
+[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUv
+ZjcyMGRmOTExYzA1MjM3NzA2NTQwOGRiNzhhMjVjNjc4Zjc5MWViOTQ0YzA2MzkzNWFlODZkYmU1MWM3MWIifX19"}]}}
+,maxUses:9999999},
+
+{buy:{id:copper_ingot,Count:1},sell:{id:player_head,Count:1,tag:
+{display:{Name:"{\"text\":\"Emoticon Wink\"}"},SkullOwner:
+{Id:[I;-2114259737,870731005,-1156243162,-1920077941],Properties:{textures:
+[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUv
+ZjRlYTJkNmY5MzlmZWZlZmY1ZDEyMmU2M2RkMjZmYThhNDI3ZGY5MGIyOTI4YmMxZmE4OWE4MjUyYTdlIn19fQ=="}]}}
+,maxUses:9999999},
+
+{buy:{id:copper_ingot,Count:1},sell:{id:player_head,Count:1,tag:
+{display:{Name:"{\"text\":\"Emoticon Cool\"}"},SkullOwner:
+{Id:[I;-1306419023,2109361625,-1870450844,-406087621],Properties:{textures:
+[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUv
+N2VmNTc1NjI5YTI2ODlkNjNhM2EzZTkxYmQzNDJlYzNmNzhiNGYzOTc2ODdjMDgzM2JmNmQ2NGJmMjZkMTJlOCJ9fX0="}]}}
+,maxUses:9999999},
+
+{buy:{id:copper_ingot,Count:1},sell:{id:player_head,Count:1,tag:
+{display:{Name:"{\"text\":\"Emoticon Confident\"}"},SkullOwner:
+{Id:[I;1859132855,609371571,-1917839978,263986279],Properties:{textures:
+[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUv
+NDRjOGNkMzFiYWM2NTdhM2YyNmI1MmUyNjJjODNlYjgzMzhkNTY2NTFmZDIyYzE2MzM1NjVmM2RiYmM0NTc3NyJ9fX0="}]}}
+,maxUses:9999999},
+
+{buy:{id:copper_ingot,Count:1},sell:{id:player_head,Count:1,tag:
+{display:{Name:"{\"text\":\"Emoticon Smiling\"}"},SkullOwner:
+{Id:[I;-137364130,1446987844,-1228574553,-11614152],Properties:{textures:
+[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUv
+NDFhYzIxZDkzY2UxN2YyYjdlZTJlMGUwN2E5ODNlZWI0YTUzOWUzNDFjZTVjNzdjMzZjNzIyZjc3YTIyMzUifX19"}]}}
+,maxUses:9999999},
+
+{buy:{id:copper_ingot,Count:1},sell:{id:player_head,Count:1,tag:
+{display:{Name:"{\"text\":\"Emoticon Sad\"}"},SkullOwner:
+{Id:[I;587322639,-581811759,-1996118915,-509709004],Properties:{textures:
+[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUv
+MzgyNDMyNDFjYTE1MGUxNDE0OTQ4NWM2Zjg0MDljMTY3OWY4NWI3MGFhZjA4NDM4MDAwYWQ0MTBjMmU3YTMxIn19fQ=="}]}}
+,maxUses:9999999},
+
+{buy:{id:copper_ingot,Count:1},sell:{id:player_head,Count:1,tag:
 {display:{Name:"{\"text\":\"Emoticon Neutral\"}"},SkullOwner:
 {Id:[I;-232571961,-1686484272,-2033568460,990606055],Properties:{textures:
 [{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUv
 NGRiNGM4ZGZkYzc3OTJkMjRjNTMzNGE1YTJkMWQ0NjdiNmUxMGFiZmFiZDYzN2U0YTgwY2NiMDViOWNjZmJkIn19fQ=="}]}}
+,maxUses:9999999},
+
+{buy:{id:copper_ingot,Count:1},sell:{id:player_head,Count:1,tag:
+{display:{Name:"{\"text\":\"Heart (red)\"}"},SkullOwner:
+{Id:[I;-1687619523,-1627829538,-1503456048,1789239172],Properties:{textures:
+[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUv
+Mjg2OWJkZDlhOGY3N2VlZmY3NWQ4ZjY3ZWQwMzIyYmQ5YzE2ZGQ0OTQ5NzIzMTRlZDcwN2RkMTBhMzEzOWE1OCJ9fX0="}]}}
 ,maxUses:9999999},
 
 {buy:{id:copper_ingot,Count:1},sell:{id:player_head,Count:1,tag:
@@ -59,8 +115,8 @@ YmMyYjliOWFlNjIyYmQ2OGFkZmY3MTgwZjgyMDZlYzQ0OTRhYmJmYTEzMGU5NGE1ODRlYzY5MmU4OTg0
 {buy:{id:copper_ingot,Count:1},sell:{id:player_head,Count:1,tag:
 {display:{Name:"{\"text\":\"Emoticon Eyes\"}"},SkullOwner:
 {Id:[I;203490643,1503676183,-1798607575,-1312515000],Properties:{textures:
-[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L
-3RleHR1cmUvYmIyYWVmN2RhOGZjMWNiNzZlZGMxMDgwZmMyYjQxNDVlOGQ4Njc4MmI3Y2Q3MzU4YjFkNjViNjUyZmQ5OGMyIn19fQ=="}]}}
+[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUv
+YmIyYWVmN2RhOGZjMWNiNzZlZGMxMDgwZmMyYjQxNDVlOGQ4Njc4MmI3Y2Q3MzU4YjFkNjViNjUyZmQ5OGMyIn19fQ=="}]}}
 ,maxUses:9999999}
 
 ]}}
