@@ -1,0 +1,101 @@
+/summon villager ~ ~1 ~ 
+{Invulnerable:1,PersistenceRequired:1,NoAI:1,CustomName:"\"House Decoration\"",
+Offers:{Recipes:[
+
+{buy:{id:copper_ingot,Count:1},sell:{id:player_head,Count:1,tag:
+{display:{Name:"{\"text\":\"TV\"}"},SkullOwner:{Id:[I;-472695962,408636140,-1541750474,231965600],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2Y0YjhjOWYzMzc4NjkxNTllZDMxYTcxYmQ1MDNiNzI1YjJlZTI2NGE2ZWIxMWU1OGU2NTdlMWE4YTk5YyJ9fX0="}]}}
+}},maxUses:9999999},
+
+{buy:{id:copper_ingot,Count:1},sell:{id:player_head,Count:1,tag:
+{display:{Name:"{\"text\":\"Rubik's Cube\"}"},SkullOwner:{Id:[I;909816702,926828450,-1386355635,939784275],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGYxYTI3N2JlYjllNGZhYTZlN2UzNTZjNzQ3ODZlOTY2MTU1NzM2YTY4NThiZjViYjVhZDI5ZGY1YmFiNjFhMSJ9fX0="}]}}
+}},maxUses:9999999},
+
+{buy:{id:copper_ingot,Count:1},sell:{id:player_head,Count:1,tag:
+{display:{Name:"{\"text\":\"Scrambled Rubik's Cube\"}"},SkullOwner:{Id:[I;1761114692,660556381,-1737855167,-737818834],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWQ4NmU3YmQyOGMxNDZmNzE1MTRjNzgyY2FjMDU1ODYwZDFmMzcyYjRhOWJlM2ZlNjVjZmUxMTA0NzMzYmEifX19"}]}}
+}},maxUses:9999999},
+
+{buy:{id:copper_ingot,Count:1},sell:{id:player_head,Count:1,tag:
+{display:{Name:"{\"text\":\"Gameboy\"}"},SkullOwner:{Id:[I;-1122566291,-485930505,-1371179481,-375822368],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2ZjZTdlYWMyZTFmNjVjZDEzYTRiZGFmMDFhY2JiOGI0YmM2MjBlYjQxM2M4NzVmMDQ0YjQxNjMyZjJhMWM2ZCJ9fX0="}]}}
+}},maxUses:9999999},
+
+{buy:{id:copper_ingot,Count:1},sell:{id:player_head,Count:1,tag:
+{display:{Name:"{\"text\":\"Warning Lamp (green)\"}"},SkullOwner:{Id:[I;-24327827,1424115065,-1455105484,693373754],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjU2MWIxNzliNmJjMDY5NTZkMDRmNDY2OTJiNzUzM2I4NzE3MTM3NGM3NTI3MzA4NWFiMmE2ZmVkYjk3Y2JiNCJ9fX0="}]}}
+}},maxUses:9999999},
+
+{buy:{id:copper_ingot,Count:1},sell:{id:player_head,Count:1,tag:
+{display:{Name:"{\"text\":\"Nintendo Switch (White Stand, Top, BrighterScreen)\"}"},SkullOwner:{Id:[I;-494895321,816792552,-1175901096,-1017097188],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGI5NzIzYWI4YTQ1YWYzMjMwNjNkNzgyNGQ0YTMxNDM4MWM2N2YwNjI3ZjZmMDEwZjkzMWFjMzllOWY3OGFlYSJ9fX0="}]}}
+}},maxUses:9999999},
+
+{buy:{id:copper_ingot,Count:1},sell:{id:player_head,Count:1,tag:
+{display:{Name:"{\"text\":\"Camera\"}"},SkullOwner:{Id:[I;797692767,214648518,-2094961131,-1410769773],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQ0MjJhODJjODk5YTljMTQ1NDM4NGQzMmNjNTRjNGFlN2ExYzRkNzI0MzBlNmU0NDZkNTNiOGIzODVlMzMwIn19fQ=="}]}}
+}},maxUses:9999999},
+
+{buy:{id:copper_ingot,Count:1},sell:{id:player_head,Count:1,tag:
+{display:{Name:"{\"text\":\"Monitor\"}"},SkullOwner:{Id:[I;-134116923,1998144143,-2025145333,-1826359700],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDQyMzg2OGU1OGMyM2EyZDQ0YzE1NGQzYmFkMzA0NGRjODE1NzM1MTM2ZjNkMmRkZTJjZDRkOGE5OTE3In19fQ=="}]}}
+}},maxUses:9999999},
+
+{buy:{id:copper_ingot,Count:1},sell:{id:player_head,Count:1,tag:
+{display:{Name:"{\"text\":\"Toilet Paper\"}"},SkullOwner:{Id:[I;1533915264,677792493,-1631520754,1614871785],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzM4MGM3ZTYyMWExZjRkYTU0M2U0YzdhYjE0OTRlZTE4NGI4N2JiMTMyNDE4NTEyYzllZWU4NThmOWRlMWRiIn19fQ=="}]}}
+}},maxUses:9999999},
+
+{buy:{id:copper_ingot,Count:1},sell:{id:player_head,Count:1,tag:
+{display:{Name:"{\"text\":\"Jukebox\"}"},SkullOwner:{Id:[I;-1640316731,-1372109796,-1600363639,-932692044],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGQxZDhjNTA0ODY3OTMzNzAzZGEzNmVjMTFmNTM4ZjYyNjVmOTg0NDFkODgxZWFjNDhlZjJjNDkzNGMxYiJ9fX0="}]}}
+}},maxUses:9999999},
+
+{buy:{id:copper_ingot,Count:1},sell:{id:player_head,Count:1,tag:
+{display:{Name:"{\"text\":\"Clock (black)\"}"},SkullOwner:{Id:[I;820347760,797459293,-1682528530,394276182],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmExMGRhNTI2ZTUxMTFjZmI2ZTNlYmQ0NzY5M2UxNjJkZDUyZDQxYTIxODIwMjhkYWE3YzJiMTlhYTMxNDMifX19"}]}}
+}},maxUses:9999999},
+
+{buy:{id:copper_ingot,Count:1},sell:{id:player_head,Count:1,tag:
+{display:{Name:"{\"text\":\"Radio\"}"},SkullOwner:{Id:[I;1242552411,1354780244,-1844356839,-1118101045],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQ4YThjNTU4OTFkZWM3Njc2NDQ0OWY1N2JhNjc3YmUzZWU4OGEwNjkyMWNhOTNiNmNjN2M5NjExYTdhZiJ9fX0="}]}}
+}},maxUses:9999999},
+
+{buy:{id:copper_ingot,Count:1},sell:{id:player_head,Count:1,tag:
+{display:{Name:"{\"text\":\"Toaster\"}"},SkullOwner:{Id:[I;2133494270,1536052191,-1816174987,142808181],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmM0NWUzNDNhODMzZTNhMGEzZWU0YjFhMThiNjEyMjk2MDYwNmY0Y2JlMjVjYjk3MTkxNGJjZWViZDkzMmYzZCJ9fX0="}]}}
+}},maxUses:9999999},
+
+{buy:{id:copper_ingot,Count:1},sell:{id:player_head,Count:1,tag:
+{display:{Name:"{\"text\":\"Chimney (metal)\"}"},SkullOwner:{Id:[I;1510049382,-1095024157,-1877188292,-719271174],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTQ1MmQ3ZThiOWE4ZmUzZGY5MTU1ODQyMjI4NDZjZjk4ODU0ODc1OGI0ODU1NmFiNGM4NjgzZDA4NGNhNWZjOSJ9fX0="}]}}
+}},maxUses:9999999},
+
+{buy:{id:copper_ingot,Count:1},sell:{id:player_head,Count:1,tag:
+{display:{Name:"{\"text\":\"Fan\"}"},SkullOwner:{Id:[I;-2079739702,498418383,-2109465316,1815482863],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTcyNzcxZmMxMTczNzA2M2M4MWViNzU5NzNlOWI4MjU5MDk1MWUzNjc0ZjMxYWNjZThjZGRkMWFhZDFiIn19fQ=="}]}}
+}},maxUses:9999999},
+
+{buy:{id:copper_ingot,Count:1},sell:{id:player_head,Count:1,tag:
+{display:{Name:"{\"text\":\"Keypad\"}"},SkullOwner:{Id:[I;-1173480353,667044687,-1331496223,-334392033],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmJjMTI4NGQyNzM2ODhhOTYxM2JmZmIxMzE3MWUzN2I4MmYwZDMzYmUwZjljMmZkZTE3YjdiZWM5ZTI1ZjQifX19"}]}}
+}},maxUses:9999999},
+
+{buy:{id:copper_ingot,Count:1},sell:{id:player_head,Count:1,tag:
+{display:{Name:"{\"text\":\"Books\"}"},SkullOwner:{Id:[I;-1319251570,-62699515,-1730824056,227845690],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTViZTIyYjVkNGE4NzVkNzdkZjNmNzcxMGZmNDU3OGVmMjc5MzlhOTY4NGNiZGIzZDMxZDk3M2YxNjY4NDkifX19"}]}}
+}},maxUses:9999999},
+
+{buy:{id:copper_ingot,Count:1},sell:{id:player_head,Count:1,tag:
+{display:{Name:"{\"text\":\"Microwave\"}"},SkullOwner:{Id:[I;-65508061,-2082783117,-1694013571,2071363069],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2RiNTE4MmY3ZDE5YTAzMjg1NjEwYzQ2MDg4OTU5Y2EyZTA3NzU1ZWI3MmIwYWQ0ZGYyOWY4NmY5NTk4ODhlIn19fQ=="}]}}
+}},maxUses:9999999},
+
+{buy:{id:copper_ingot,Count:1},sell:{id:player_head,Count:1,tag:
+{display:{Name:"{\"text\":\"Globe\"}"},SkullOwner:{Id:[I;1808842702,-467384243,-1598360380,1120367588],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmUyY2M0MjAxNWU2Njc4ZjhmZDQ5Y2NjMDFmYmY3ODdmMWJhMmMzMmJjZjU1OWEwMTUzMzJmYzVkYjUwIn19fQ=="}]}}
+}},maxUses:9999999},
+
+{buy:{id:copper_ingot,Count:1},sell:{id:player_head,Count:1,tag:
+{display:{Name:"{\"text\":\"Beach Ball\"}"},SkullOwner:{Id:[I;-1569807234,664424082,-1393168100,1866424833],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWE1YWIwNWVhMjU0YzMyZTNjNDhmM2ZkY2Y5ZmQ5ZDc3ZDNjYmEwNGU2YjVlYzJlNjhiM2NiZGNmYWMzZmQifX19"}]}}
+}},maxUses:9999999},
+
+{buy:{id:copper_ingot,Count:1},sell:{id:player_head,Count:1,tag:
+{display:{Name:"{\"text\":\"Pokeball\"}"},SkullOwner:{Id:[I;79594529,-936227592,-2098881656,-669748866],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDQzZDRiN2FjMjRhMWQ2NTBkZGY3M2JkMTQwZjQ5ZmMxMmQyNzM2ZmMxNGE4ZGMyNWMwZjNmMjlkODVmOGYifX19"}]}}
+}},maxUses:9999999},
+
+{buy:{id:copper_ingot,Count:1},sell:{id:player_head,Count:1,tag:
+{display:{Name:"{\"text\":\"Piggy Bank\"}"},SkullOwner:{Id:[I;-1370159105,-451654492,-2143852063,-2112095635],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTk4ZGY0MmY0NzdmMjEzZmY1ZTlkN2ZhNWE0Y2M0YTY5ZjIwZDljZWYyYjkwYzRhZTRmMjliZDE3Mjg3YjUifX19"}]}}
+}},maxUses:9999999},
+
+{buy:{id:copper_ingot,Count:1},sell:{id:player_head,Count:1,tag:
+{display:{Name:"{\"text\":\"Totoro Doll\"}"},SkullOwner:{Id:[I;-694998974,-686536272,-1816572211,-300169004],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWM3MjllMWJhOWM0ODk2ZTVkNmMyMTQ1ZDUxZTFiOGU5NDJlMGViNTIyMGRmZDliMGRhZjdkODIyNzg1NTNjNSJ9fX0="}]}}
+}},maxUses:9999999},
+
+{buy:{id:copper_ingot,Count:1},sell:{id:player_head,Count:1,tag:
+{display:{Name:"{\"text\":\"Recycling Bin (green, full)\"}"},SkullOwner:{Id:[I;339401919,151277352,-1366468360,-209076737],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWMzNjFmYWEwZjYzZDNkMzg4OTExNGRkMDM2ZTI0ZGI0ODRmNGE5ODgxZDVkYjY2N2Y3ZWNlYWRhMjI2ZTVhOSJ9fX0="}]}}
+}},maxUses:9999999}
+
+]}}
