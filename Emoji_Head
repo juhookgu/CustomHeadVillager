@@ -1,4 +1,4 @@
-summon villager ~ ~1 ~ {CustomName:"\"TEST\"",Offers:{Recipes:[
+summon villager ~ ~1 ~ {CustomName:"\"Emoji\"",Offers:{Recipes:[
 
 {buy:{id:copper_ingot,Count:1},sell:{id:player_head,Count:1,tag:
 {display:{Name:"{\"text\":\"Emoticon Thinking\"}"},SkullOwner:
