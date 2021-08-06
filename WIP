@@ -1,1 +1,11 @@
+summon villager ~ ~1 ~ {CustomName:"\"....................\"",Offers:{Recipes:[
 
+{buy:{id:copper_ingot,Count:1},sell:{id:player_head,Count:1,tag:
+
+,maxUses:9999999},
+
+{buy:{id:copper_ingot,Count:1},sell:{id:player_head,Count:1,tag:
+
+,maxUses:9999999}
+
+]}}
